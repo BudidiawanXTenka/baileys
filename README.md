@@ -35,7 +35,7 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 - Product Message
 - Payment Request Message
 - Newsletter Support
-- 
+  
 
 ## Installation
 
