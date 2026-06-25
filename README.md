@@ -36,38 +36,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 - Chat Management
 - Contact Management
 
-### Media Features
-
-- Image Message
-- Video Message
-- Audio Message
-- Voice Note Message
-- Sticker Message
-- Document Message
-- Album Message
-- Media Downloader
-- Media Uploader
-- Media Converter
-
-### Toolkit
-
-- Media Resolver
-- Buffer Fetcher
-- File Uploader
-- URL Resolver
-- MP4 Preview Generator
-- Image Resizer
-- Promise Resolver
-- Helper Utilities
-
-### Builder
-
-- Button Builder
-- Carousel Builder
-- Native Flow Builder
-- Interactive Builder
-- Message Builder
-
 ## Installation
 
 ### Clone Repository
