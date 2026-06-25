@@ -25,6 +25,9 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 - Interactive Message
 - Native Flow Message
 - Carousel Message
+- Group Management
+- Chat Management
+- Contact Management
 - Button Message
 - List Message
 - Poll Message
@@ -32,9 +35,7 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 - Product Message
 - Payment Request Message
 - Newsletter Support
-- Group Management
-- Chat Management
-- Contact Management
+- 
 
 ## Installation
 
