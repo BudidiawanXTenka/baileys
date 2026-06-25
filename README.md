@@ -1,8 +1,7 @@
 # WhatsApp Baileys
 
 <p align="center">
-  <img src="https://pixhost.to/show/8868/742823214_1001152425.jpg" width="300"/>
-</p><p align="center">
+  <img src="https://t2.pixhost.to/thumbs/8868/742823214_1001152425.jpg" width="300"/>
   <b>Pustaka Bot WhatsApp</b><br>
   Wrapper Baileys berkinerja tinggi untuk otomatisasi bot WhatsApp kalian
 </p><p align="center">
